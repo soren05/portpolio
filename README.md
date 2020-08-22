@@ -1,2 +1,2 @@
 # portpolio
-This is SoonHong's protpolio
+SoonHong's protpolio
